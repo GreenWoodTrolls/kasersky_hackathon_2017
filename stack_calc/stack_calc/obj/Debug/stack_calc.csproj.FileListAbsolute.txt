@@ -1,0 +1,6 @@
+C:\Users\andrew\Documents\kasersky_hackathon_2017\stack_calc\stack_calc\bin\Debug\stack_calc.exe.config
+C:\Users\andrew\Documents\kasersky_hackathon_2017\stack_calc\stack_calc\bin\Debug\stack_calc.exe
+C:\Users\andrew\Documents\kasersky_hackathon_2017\stack_calc\stack_calc\bin\Debug\stack_calc.pdb
+C:\Users\andrew\Documents\kasersky_hackathon_2017\stack_calc\stack_calc\obj\Debug\stack_calc.csprojResolveAssemblyReference.cache
+C:\Users\andrew\Documents\kasersky_hackathon_2017\stack_calc\stack_calc\obj\Debug\stack_calc.exe
+C:\Users\andrew\Documents\kasersky_hackathon_2017\stack_calc\stack_calc\obj\Debug\stack_calc.pdb
